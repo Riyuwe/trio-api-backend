@@ -1,0 +1,12 @@
+{
+  "extends": "loopback",
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0,
+    "no-underscore-dangle": "off",
+    "no-bitwise": "off",
+    "no-continue": "off",
+    "comma-dangle": "off",
+    "object-curly-spacing": "off"
+  }
+}
